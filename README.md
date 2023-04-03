@@ -2,8 +2,9 @@
 <div>
 <h1>
 My name Dmitriy. Live in Moskow.
-</h1>
 <h3 I'm junior developer</h3>
+      </h1>
+
 <p align="center">
       <img src ="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
        <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
