@@ -10,10 +10,7 @@
           <a href = "https://t.me/+dsp3ddb92o8yMjEy">
                <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
           </a>
-     <img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-      <a href = "https://web.telegram.org/z/">
-          </a>
-     <h3>I'm working in</h3>
+          <h3>I'm working in</h3>
      <p> 
     <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
           <a href="">
