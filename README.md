@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-<h1> My name Dmitriy. Live in Moskow.</h1>
+<h1> My name Dmitriy. in Moskow, Russia.</h1>
      <h3>I'm junior developer</h3>
 
 <p align="center">
