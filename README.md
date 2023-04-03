@@ -7,7 +7,7 @@
       <img src ="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>     
      <a href = "https://web.telegram.org/z/">
           </a>
-     <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a href
+     <img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
           <a href = "https://t.me/+dsp3ddb92o8yMjEy">
           </a>
      <img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
