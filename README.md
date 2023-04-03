@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div>
 <h1>
->My name Dmitriy. Live in Moskow.
+My name Dmitriy. Live in Moskow.
 </h1>
-<h3 I'm junior developer</h3>
+<h3 I'm junior developer </h3>
 <div align="center">
 <p><a href = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
 <p><a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></p>
