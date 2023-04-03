@@ -1,4 +1,15 @@
 ### Hi there 👋
+<div>
+<h1>
+>My name Dmitriy. Live in Moskow.
+</h1>
+<h3 I'm junior developer</h3>
+<div align="center">
+<p><a href = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
+<p><a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></p>
+<p><a href = "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a></p>
+</div>
+</div>
 
 <!--
 **Chert166/Chert166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
